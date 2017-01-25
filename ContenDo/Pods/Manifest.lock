@@ -1,0 +1,76 @@
+PODS:
+  - AFNetworking (2.6.3):
+    - AFNetworking/NSURLConnection (= 2.6.3)
+    - AFNetworking/NSURLSession (= 2.6.3)
+    - AFNetworking/Reachability (= 2.6.3)
+    - AFNetworking/Security (= 2.6.3)
+    - AFNetworking/Serialization (= 2.6.3)
+    - AFNetworking/UIKit (= 2.6.3)
+  - AFNetworking/NSURLConnection (2.6.3):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/NSURLSession (2.6.3):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (2.6.3)
+  - AFNetworking/Security (2.6.3)
+  - AFNetworking/Serialization (2.6.3)
+  - AFNetworking/UIKit (2.6.3):
+    - AFNetworking/NSURLConnection
+    - AFNetworking/NSURLSession
+  - APParallaxHeader (0.1.6)
+  - iOS-Slide-Menu (1.5)
+  - IQKeyboardManager (3.3.7)
+  - JCNotificationBannerPresenter (1.1.2)
+  - libwebp (0.5.0):
+    - libwebp/core (= 0.5.0)
+    - libwebp/dec (= 0.5.0)
+    - libwebp/demux (= 0.5.0)
+    - libwebp/dsp (= 0.5.0)
+    - libwebp/enc (= 0.5.0)
+    - libwebp/mux (= 0.5.0)
+    - libwebp/utils (= 0.5.0)
+    - libwebp/webp (= 0.5.0)
+  - libwebp/core (0.5.0):
+    - libwebp/webp
+  - libwebp/dec (0.5.0):
+    - libwebp/core
+  - libwebp/demux (0.5.0):
+    - libwebp/core
+  - libwebp/dsp (0.5.0):
+    - libwebp/core
+  - libwebp/enc (0.5.0):
+    - libwebp/core
+  - libwebp/mux (0.5.0):
+    - libwebp/core
+  - libwebp/utils (0.5.0):
+    - libwebp/core
+  - libwebp/webp (0.5.0)
+  - MBProgressHUD (1.0.0)
+  - youtube-ios-player-helper (0.1.6)
+
+DEPENDENCIES:
+  - AFNetworking (~> 2.6.1)
+  - APParallaxHeader
+  - iOS-Slide-Menu
+  - IQKeyboardManager
+  - JCNotificationBannerPresenter
+  - libwebp
+  - MBProgressHUD
+  - youtube-ios-player-helper (~> 0.1.4)
+
+SPEC CHECKSUMS:
+  AFNetworking: cb8d14a848e831097108418f5d49217339d4eb60
+  APParallaxHeader: 854bc48a2487ca12c702f8a236fec0d89cdac5c3
+  iOS-Slide-Menu: 40b0cbd8916c42afc755f0869793cd09e7a32102
+  IQKeyboardManager: 249c3946acf61345c18b038eb50863fe2793e3a8
+  JCNotificationBannerPresenter: f40150961943048ed3b1d2628d29dbf66a959e21
+  libwebp: 68ba2001ba6806ee52837ebd77a551a0b6567e4e
+  MBProgressHUD: 4890f671c94e8a0f3cf959aa731e9de2f036d71a
+  youtube-ios-player-helper: 21ab92db027c7ff86cb17a3843a3f6eafc8158d2
+
+PODFILE CHECKSUM: 092b0d81bb4c9a0a9fa11c11c5d03cfb5d57fa55
+
+COCOAPODS: 1.0.1

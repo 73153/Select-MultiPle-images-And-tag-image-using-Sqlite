@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "A205B3BDD340744E471D85EFE25A01C5A90B46AB",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "21611A1E7914DBB157A37A03E070FF5D2E2ADA7F" : 9223372036854775807,
+    "A205B3BDD340744E471D85EFE25A01C5A90B46AB" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "2F221694-AD43-4DFD-88D4-50C9BB29853D",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "21611A1E7914DBB157A37A03E070FF5D2E2ADA7F" : "",
+    "A205B3BDD340744E471D85EFE25A01C5A90B46AB" : "Build%201.5\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Contento",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Build 1.5\/Thomas_Cook(1.5)\/Contento.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/202.131.115.109\/root\/contento-ios.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "21611A1E7914DBB157A37A03E070FF5D2E2ADA7F"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/tomorrow-people.git.beanstalkapp.com\/contento-ios-application.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "A205B3BDD340744E471D85EFE25A01C5A90B46AB"
+    }
+  ]
+}
